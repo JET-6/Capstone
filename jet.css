@@ -6,10 +6,16 @@
   background-position: center;
 }
 
+/* BANNER STUFF */
+a {
+  color: red;
+  text-decoration: none;
+}
 header {
   color: red;
   text-align: center;
   font-family: 'Anton', sans-serif;
+  font-size: 3rem;
 }
 
 body {
