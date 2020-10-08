@@ -1,0 +1,12 @@
+/* JAMES WORLD SYLES */
+.banner {
+  height: 350px;
+  background-image: url(images/jetnite.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+}
