@@ -66,6 +66,14 @@ body {
   background-image: url(images/gaming-pattern.png);
 }
 
+section {
+  font-size: 18px;
+  border: 1px solid whitesmoke;
+  color: whitesmoke;
+  margin: 20px;
+  padding: 20px;
+}
+
 .vid-box {
   display: flex;
   margin: 20px;
