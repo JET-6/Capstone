@@ -6,6 +6,14 @@
   box-sizing: border-box;
 }
 
+.title {
+  font-size: 32px;
+  color: red;
+  text-decoration: underline;
+  font-weight: bolder;
+  font-family: 'Anton', sans-serif;
+}
+
 /* navbar stuff */
 .banner {
   height: 350px;
