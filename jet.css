@@ -10,8 +10,8 @@
 
 /* position navbar container inside banner */
 .container {
-  position: absolute;
-  margin: 20px;
+  position: relative;
+  top: 302px;
   width: auto;
 }
 
