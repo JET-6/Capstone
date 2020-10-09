@@ -4,8 +4,35 @@
   background-image: url(images/jetnite.jpg);
   background-size: cover;
   background-position: center;
+/* position relative to navbar */
+  position: relative;
 }
 
+/* position navbar container inside banner */
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+.nav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 /* BANNER STUFF */
 a {
   color: red;
