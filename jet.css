@@ -1,6 +1,9 @@
 /* JAMES WORLD SYLES */
 * {
   color: dimgray;
+  margin: 20;
+  line-height: 1;
+  box-sizing: border-box;
 }
 
 /* navbar stuff */
@@ -53,4 +56,11 @@ header {
 
 body {
   background-image: url(images/gaming-pattern.png);
+}
+
+.vid-box {
+  display: flex;
+  margin: 20px;
+  justify-content: space-between;
+
 }
