@@ -1,4 +1,9 @@
 /* JAMES WORLD SYLES */
+* {
+  color: mediumpurple;
+}
+
+/* navbar stuff */
 .banner {
   height: 350px;
   background-image: url(images/jetnite.jpg);
