@@ -71,5 +71,8 @@ body {
   margin: 20px;
   justify-content: space-between;
   align-items: center;
+}
 
+footer {
+  border-top: 1px solid red;
 }
